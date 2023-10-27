@@ -5,3 +5,4 @@
 * [Installation](installation.md)
 * [Premium Minecraft](premium-minecraft.md)
 * [Cracked Minecraft](cracked-minecraft.md)
+* [In game Guide](in-game-guide.md)
