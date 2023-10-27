@@ -4,8 +4,8 @@ Firstly, the installation step will be different based on whether you have premi
 
 If you are using premium Minecraft account please follow the following guide:
 
-[Premium Minecraft](<.gitbook/assets/premium minecraft>)
+[Premium Minecraft](premium-minecraft.md)
 
 If you are using cracked Minecraft account please follow the following guide:
 
-[Cracked Minecraft](<.gitbook/assets/cracked minecraft>)
+[Cracked Minecraft](cracked-minecraft.md)
