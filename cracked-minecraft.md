@@ -22,6 +22,6 @@ Once installed you should be able to see the modpack in your installed versions 
 
 
 
-Once you are in the game. Click on "Multiplayer" and add the following server ip:<mark style="color:orange;">**Play.NexusCraft.xyz**</mark>
+Once you are in the game. Click on "Multiplayer" and add the following server ip:
 
 _Note:Names taken already by premium account can not be used by cracked players_

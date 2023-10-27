@@ -12,4 +12,4 @@ A pop up screen will show up and you would need to click on the import option he
 
 <figure><img src=".gitbook/assets/Screenshot 2023-10-27 143229.png" alt=""><figcaption></figcaption></figure>
 
-Once done you may then click on the "Play" button that shows up when you hover over the profile you have imported and you can then join using the following IP:<mark style="color:orange;">**Play.NexusCraft.xyz**</mark>
+Once done you may then click on the "Play" button that shows up when you hover over the profile you have imported and you can then join using the following IP:
