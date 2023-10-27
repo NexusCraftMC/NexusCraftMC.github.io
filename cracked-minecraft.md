@@ -1,6 +1,8 @@
 # Cracked Minecraft
 
-You will need the following in order to proceed with the installation of Modded B1ockverse:
+You will need the following in order to proceed with the installation of Modded NexusCraft:
+
+[Modpack file](https://drive.google.com/file/d/1V6vgk\_7UXFArFdRJxuja4-cwQXSMCaHs/view?usp=sharing)
 
 You can set your account info by clicking  "**Switch to Offline mode**" and Enter your name. Once entered click "Login offline".
 

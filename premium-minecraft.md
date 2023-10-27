@@ -1,6 +1,6 @@
 # Premium Minecraft
 
-Once the CurseForge launcher and Modpack ZIP file is downloaded, open CurseForge Launcher and click on Minecraft and " + Create Custom Profile "
+Once the CurseForge launcher and [Modpack ZIP file](https://drive.google.com/file/d/1V6vgk\_7UXFArFdRJxuja4-cwQXSMCaHs/view?usp=sharing) is downloaded, open CurseForge Launcher and click on Minecraft and " + Create Custom Profile "
 
 
 
